@@ -1,0 +1,34 @@
+Cement:Fine Aggregate(Sand):Coarse Aggregate(steel slag)
+
+M15-1:2:4
+M20-1:1.5:3
+
+Water Cement Ratio= Weight of the Water/Weight of the Cement.
+
+Water Cement Ratio of M15 = 0.4 to 0.6.
+Water Cement Ratio of M20 = 0.4 to 0.8.
+
+Grade of Concrete       Minimum compressive strength N/mm2 at 7 days       Specified characteristic compressive strength (N/mm2) at 28 days
+
+M15                      10                                                     15 (Mean Value=15 to 17)
+M20                      13.5                                                   20 (Mean Value=20 to 24)
+
+
+*The lower the water-cement ratio, the higher is the compressive strength.
+“The compressive strength of concrete is given in terms of the characteristic compressive strength of 150 mm size cubes tested at 28 days (fck).
+
+0.4 = 17
+0.45 = 16.5
+0.50 = 16
+0.55 = 15.5
+0.60 = 15- In 28 days
+
+
+0.4 = 12
+0.45 = 11.5
+0.50 = 11
+0.55 = 10.5
+0.60 = 10- In 7 days
+
+Failure ( below 15 for 28 days and Below 10 for 7 days ) 
+
